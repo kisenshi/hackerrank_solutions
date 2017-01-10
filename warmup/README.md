@@ -34,6 +34,6 @@ Introductory exercises to Hackerrank platform.
 
 ---
 
-- [Plus Minus]https://www.hackerrank.com/challenges/plus-minus)
+- [Plus Minus](https://www.hackerrank.com/challenges/plus-minus)
 
    The code can be found in [here](plus-minus.py)
