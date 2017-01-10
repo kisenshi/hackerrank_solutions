@@ -26,7 +26,11 @@ Introductory exercises to Hackerrank platform.
 
    The code can be found in [here](a-very-big-sum.py)
  
+  ---
 
+- [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)
+
+   The code can be found in [here](diagonal-difference.py)
 
 
 
