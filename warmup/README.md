@@ -20,6 +20,12 @@ Introductory exercises to Hackerrank platform.
 
    The code can be found in [here](compare-the-triplets.py)
  
+  ---
+
+- [A very big sum](https://www.hackerrank.com/challenges/a-very-big-sum)
+
+   The code can be found in [here](a-very-big-sum.py)
+ 
 
 
 
