@@ -13,6 +13,12 @@ Introductory exercises to Hackerrank platform.
 - [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)
 
    The code can be found in [here](simple-array-sum.py)
+
+ ---
+
+- [Compare the triplets](https://www.hackerrank.com/challenges/compare-the-triplets)
+
+   The code can be found in [here](compare-the-triplets.py)
  
 
 
